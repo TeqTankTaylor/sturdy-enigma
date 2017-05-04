@@ -10,6 +10,8 @@ namespace sturdy_enigma
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi boo boo");
+            //Stephan was here, Dave is not here
             Console.WriteLine("Taylor Was here!!");
 
             // taking up space is cool
