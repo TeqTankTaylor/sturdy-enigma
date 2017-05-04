@@ -10,6 +10,11 @@ namespace sturdy_enigma
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Taylor Was here!!");
+
+            // taking up space is cool
+
+            // make things hard
         }
     }
 }
